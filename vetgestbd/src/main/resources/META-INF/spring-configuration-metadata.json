@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "mailboxlayer.api.key",
+      "type": "java.lang.String",
+      "description": "API key para el servicio mailboxlayer (validación de emails)."
+    }
+  ]
+}
